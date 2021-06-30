@@ -32,7 +32,7 @@ public class LecturaA {
 
             } catch (FileNotFoundException e) {
                 e.printStackTrace();
-                System.out.println("No se pudo abrir el archivo");
+                System.out.println("YA PUEDO LEER ARCHIVOS");
             }catch (IOException e) {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
